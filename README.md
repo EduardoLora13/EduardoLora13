@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EduardoLora13
-- 👀 I’m interested in learn python for networking
-- 🌱 I’m currently learning networking and python 
+- 🌱 I’m currently learning Linux 
 
 
 <!---
